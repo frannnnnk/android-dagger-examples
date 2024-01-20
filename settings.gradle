@@ -1,4 +1,8 @@
 include ':circleMenu'
-include ':app:circlemenu'
-include ':app'
-rootProject.name = "CircleMenuSample"
+include ':example-01'
+include ':example-02'
+include ':example-03'
+include ':example-04'
+include ':example-05'
+include ':example-06'
+rootProject.name = "dagger-examples"
